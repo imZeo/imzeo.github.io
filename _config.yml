@@ -1,4 +1,8 @@
 # theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-remote-theme
+
 remote_theme: piharpi/jekyll-klise
 title: Zeo's homepage
 description: Hello? World? Are we live already?

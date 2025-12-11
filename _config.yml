@@ -1,8 +1,14 @@
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
+lang: en
 
-plugins:
-  - jekyll-remote-theme
+url: https://imzeo.github.io
 
-remote_theme: piharpi/jekyll-klise
 title: Zeo's homepage
 description: Hello? World? Are we live already?
+
+author:
+  name: Zeo
+  url: https://github.com/imZeo
+
+github:
+  username: imZeo
